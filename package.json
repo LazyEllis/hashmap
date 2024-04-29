@@ -1,0 +1,20 @@
+{
+  "name": "lazyellis-hashmap",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "This repository contains implementations of a HashMap data structure in JavaScript.",
+  "main": "hashmap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LazyEllis/hashmap.git"
+  },
+  "author": "LazyEllis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LazyEllis/hashmap/issues"
+  },
+  "homepage": "https://github.com/LazyEllis/hashmap#readme"
+}

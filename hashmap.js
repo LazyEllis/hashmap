@@ -1,4 +1,4 @@
-import LinkedList from "./linked-list.mjs";
+import LinkedList from "./linked-list.js";
 
 /**
  * Class representing a hashmap data structure.

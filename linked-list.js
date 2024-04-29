@@ -1,4 +1,4 @@
-import Node from "./node.mjs";
+import Node from "./node.js";
 
 /**
  * Class representing a linked list.

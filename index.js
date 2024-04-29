@@ -1,4 +1,4 @@
-import HashMap from "./hashmap.mjs";
+import HashMap from "./hashmap.js";
 
 // Create a new hashmap
 const map = new HashMap();
